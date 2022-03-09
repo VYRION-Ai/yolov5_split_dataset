@@ -9,4 +9,4 @@ the folder that contain all images and labels Called ('images')
 
 now comes to statgy:- the code splite the images to 75% train and 25% valid
 
-note - you can change the splite
+Note - you can change the partition and you can simply rewrite the code
